@@ -1,0 +1,5 @@
+[book]
+authors = ["tau"]
+language = "en"
+src = "src"
+title = "elisp reference manual"
